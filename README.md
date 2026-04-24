@@ -75,8 +75,10 @@ graph TD
 
 ---
 *Dự án được phát triển nhằm tối ưu hóa quản trị tài sản thông qua IoT, đảm bảo tính minh bạch và chính xác.*
+
 GVHD:   Nguyễn Duy Xuân Bách
-Sinh viên thực hiện:        
-        Thân Quán Nguyên	MSSV:20521682
-        Trần Lê Anh		    MSSV:20520138
-        Hoàng An Thế		MSSV:20521939
+
+Sinh viên thực hiện:              
+Thân Quán Nguyên	MSSV:20521682       
+Trần Lê Anh		    MSSV:20520138      
+Hoàng An Thế		MSSV:20521939
