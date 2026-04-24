@@ -67,7 +67,7 @@ graph TD
 
 ---
 
-## 🚀 Quy trình Nghiệp vụ
+## 🚀 Quy trình:
 1.  **Nhận dạng**: Tài sản đi qua trạm, thẻ RFID được nhận diện.
 2.  **Truyền tin**: ESP32 gửi dữ liệu về Server qua HTTP/MQTT.
 3.  **Xử lý**: Kiểm tra trạng thái, ghi nhận thời gian và phí.
@@ -75,3 +75,8 @@ graph TD
 
 ---
 *Dự án được phát triển nhằm tối ưu hóa quản trị tài sản thông qua IoT, đảm bảo tính minh bạch và chính xác.*
+GVHD:   Nguyễn Duy Xuân Bách
+Sinh viên thực hiện:        
+        Thân Quán Nguyên	MSSV:20521682
+        Trần Lê Anh		    MSSV:20520138
+        Hoàng An Thế		MSSV:20521939
