@@ -1,0 +1,8 @@
+*.docx
+*.pptx
+*.mp4
+*.zip
+*.pdf
+.sass-cache/
+node_modules/
+.DS_Store
